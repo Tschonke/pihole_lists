@@ -1,0 +1,10 @@
+#Regex whitelist
+(\.|^)apple\.com$
+(\.|^)icloud\.com$
+(\.|^)apple-mapkit\.com$
+(\.|^)cdn-apple\.com$
+(\.|^)apple-cloudkit\.com$
+[A-z.]{0,2}reddit.com
+
+#Exact whitelist		
+reddit.map.fastly.net
