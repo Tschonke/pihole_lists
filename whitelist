@@ -1,3 +1,25 @@
+# Title: Tschonkes/hosts manual whitelist
+#
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via GitHub
+#
+# Date: 25 July 2024 21:05:00 (UTC)
+# Extensions used to generate this file: whitelist
+# Number of unique domains: 7
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/Tschonke/pihole_lists/main/whitelist
+# Project releases: https://github.com/Tschonke/pihole_lists
+#
+# ===============================================================
+
+# Custom host records are listed here.
+
+
+# End of custom host records.
+# Title: Manual Whitelist
+# Direct URL: https://raw.githubusercontent.com/Tschonke/pihole_lists/main/whitelist
+# Updated: July 25, 2024
+
 #Regex whitelist
 (\.|^)apple\.com$
 (\.|^)icloud\.com$
