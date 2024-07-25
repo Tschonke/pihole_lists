@@ -1,0 +1,21 @@
+# Title: Tschonkes/hosts extension social
+#
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via GitHub
+#
+# Date: 25 July 2024 21:05:00 (UTC)
+# Extensions used to generate this file: undefined
+# Number of unique domains: 4
+#
+#
+# ===============================================================
+
+# Custom host records are listed here.
+
+
+# End of custom host records.
+# Title: Undefined Blocklist
+# Direct URL: https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/social-hosts
+# Updated: July 25, 2024
+
+0.0.0.0 
