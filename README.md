@@ -1,2 +1,2 @@
 # pihole_lists
- blacklist and whitelist
+ blacklist and whitelist for pihole
